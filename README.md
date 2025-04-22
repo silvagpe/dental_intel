@@ -65,6 +65,8 @@ bun dev
 
 ## Development
 
+
+
 ### Testing Setup
 Install testing dependencies:
 ```bash
@@ -81,8 +83,10 @@ npm install --save-dev \
   @types/jest
 ```
 
-
-// ...existing code...
+1. Run the tests:
+```bash
+npm run test
+```
 
 ## SOLID Principles Implementation
 
